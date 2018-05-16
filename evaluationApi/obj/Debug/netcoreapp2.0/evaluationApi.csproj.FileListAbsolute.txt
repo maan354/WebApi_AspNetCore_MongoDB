@@ -1,0 +1,11 @@
+C:\Users\Guilherme\Desktop\evaluationApi\evaluationApi\bin\Debug\netcoreapp2.0\evaluationApi.deps.json
+C:\Users\Guilherme\Desktop\evaluationApi\evaluationApi\bin\Debug\netcoreapp2.0\evaluationApi.runtimeconfig.json
+C:\Users\Guilherme\Desktop\evaluationApi\evaluationApi\bin\Debug\netcoreapp2.0\evaluationApi.runtimeconfig.dev.json
+C:\Users\Guilherme\Desktop\evaluationApi\evaluationApi\bin\Debug\netcoreapp2.0\evaluationApi.dll
+C:\Users\Guilherme\Desktop\evaluationApi\evaluationApi\obj\Debug\netcoreapp2.0\evaluationApi.csprojAssemblyReference.cache
+C:\Users\Guilherme\Desktop\evaluationApi\evaluationApi\obj\Debug\netcoreapp2.0\evaluationApi.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\evaluationApi\evaluationApi\obj\Debug\netcoreapp2.0\evaluationApi.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Desktop\evaluationApi\evaluationApi\obj\Debug\netcoreapp2.0\evaluationApi.AssemblyInfo.cs
+C:\Users\Guilherme\Desktop\evaluationApi\evaluationApi\bin\Debug\netcoreapp2.0\evaluationApi.pdb
+C:\Users\Guilherme\Desktop\evaluationApi\evaluationApi\obj\Debug\netcoreapp2.0\evaluationApi.dll
+C:\Users\Guilherme\Desktop\evaluationApi\evaluationApi\obj\Debug\netcoreapp2.0\evaluationApi.pdb
